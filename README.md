@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kshitij-2221/Leet_Code/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Kshitij-2221/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
