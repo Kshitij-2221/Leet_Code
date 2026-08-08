@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/Kshitij-2221/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kshitij-2221/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Kshitij-2221/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Kshitij-2221/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kshitij-2221/Leet_Code/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -18,6 +19,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kshitij-2221/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kshitij-2221/Leet_Code/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Kshitij-2221/Leet_Code/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
