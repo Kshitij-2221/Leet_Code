@@ -33,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshitij-2221/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Kshitij-2221/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kshitij-2221/Leet_Code/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Kshitij-2221/Leet_Code/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,5 +45,10 @@
 | [0125-valid-palindrome](https://github.com/Kshitij-2221/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Kshitij-2221/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Kshitij-2221/Leet_Code/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Kshitij-2221/Leet_Code/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-2221/Leet_Code/tree/master/0876-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Kshitij-2221/Leet_Code/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
