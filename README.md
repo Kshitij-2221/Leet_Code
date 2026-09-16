@@ -43,6 +43,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kshitij-2221/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kshitij-2221/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Kshitij-2221/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Kshitij-2221/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Kshitij-2221/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Kshitij-2221/Leet_Code/tree/master/0344-reverse-string) |
@@ -57,4 +58,17 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kshitij-2221/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Kshitij-2221/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kshitij-2221/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kshitij-2221/Leet_Code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kshitij-2221/Leet_Code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
